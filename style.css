@@ -1,0 +1,72 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    height: 700px;
+    margin-bottom: 150px;
+}
+p{
+    font-size: 23px;
+    color:lightslategray;
+}
+.a{
+    background-image: url("personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    width: 100%;
+  }
+.b{
+    width: 30%;
+    margin-left: 200px;
+    margin-top: 150px;
+    float: left;
+}
+.b img{
+    width: 90%;
+}
+.c{
+    color: blueviolet;
+    font-size: 30px;
+}
+.d{
+    text-decoration: none;    
+    background-image: linear-gradient(25deg, rgb(238, 255, 0),rgb(71, 255, 169) );
+    color:rgb(10, 219, 108);
+    border-radius: 4px;
+    padding: 10px 20px ;
+    font-weight: 700;
+}
+.me{
+    width: 100%;
+}
+.my{
+    text-align:center;
+}
+.bc{
+    width: 29%;
+    margin-right: 40;
+    margin-top: 40px;
+    display: inline-block;
+
+}
+.we{
+    background-image: url("personal-website/latest-work-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+.us{
+   border: 2px solid rebeccapurple;
+   border-radius: 8px;
+   color: white;
+   background-color: rgb(118, 10, 241);
+   width: 40%;
+   margin-left: 30%;
+}
+.ee{
+    float: inline-start;
+}
+.cc{
+    background-image: url("personal-website/footer-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
